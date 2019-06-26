@@ -1,0 +1,57 @@
+<?php
+
+ 
+
+global $states;
+
+$states ['KE' ] = array (
+						
+							'KE01' => 'Mombasa',
+                            'KE02' => 'Kwale',
+                            'KE03' => 'Kilifi',
+                            'KE04' => 'Tana River',
+                            'KE05' => 'Lamu',
+                            'KE06' => 'Taita–Taveta',
+                            'KE07' => 'Garissa',
+                            'KE08' => 'Wajir',
+                            'KE09' => 'Mandera',
+                            'KE10' => 'Marsabit',
+                            'KE11' => 'Isiolo',
+                            'KE12' => 'Meru',
+                            'KE13' => 'Tharaka-Nithi',
+                            'KE14' => 'Embu',
+                            'KE15' => 'Kitui',
+                            'KE16' => 'Machakos',
+                            'KE17' => 'Makueni',
+                            'KE18' => 'Nyandarua',
+                            'KE19' => 'Nyeri',
+                            'KE20' => 'Kirinyaga',
+                            'KE21' => 'Murang\'a',
+                            'KE22' => 'Kiambu',
+                            'KE23' => 'Turkana',
+                            'KE24' => 'West Pokot',
+                            'KE25' => 'Samburu',
+                            'KE26' => 'Trans-Nzoia',
+                            'KE27' => 'Uasin Gishu',
+                            'KE28' => 'Elgeyo-Marakwet',
+                            'KE29' => 'Nandi',
+                            'KE30' => 'Baringo',
+                            'KE31' => 'Laikipia',
+                            'KE32' => 'Nakuru',
+                            'KE33' => 'Narok',
+                            'KE34' => 'Kajiado',
+                            'KE35' => 'Kericho',
+                            'KE36' => 'Bomet',
+                            'KE37' => 'Kakamega',
+                            'KE38' => 'Vihiga',
+                            'KE39' => 'Bungoma',
+                            'KE40' => 'Busia',
+                            'KE41' => 'Siaya',
+                            'KE42' => 'Kisumu',
+                            'KE43' => 'Homa Bay',
+                            'KE44' => 'Migori',
+                            'KE45' => 'Kisii',
+                            'KE46' => 'Nyamira',
+                            'KE47' => 'Nairobi',
+
+	);
